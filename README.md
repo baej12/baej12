@@ -11,12 +11,20 @@ Hello, I'm Brandon, a recent grad at the University of Nevada, Las Vegas. I have
 > PostgreSQL, MySQL, MongoDB
 
 **Testing and Quality Assurance**
-> PostgreSQL, MySQL, MongoDB
-
+> JUnit, ATEasy, Test Stand, Mockito
 *DevOps and Infrastructure**
 > AWS, Kafka, Jira, REST API, Spring, Docker, Maven, Git, Agile, AzDO, Linode, Ant, Postman
 ---
 **Work Experience:**
+
+HUNTINGTON INGALLS INDUSTRIES via INSIGHT GLOBAL
+
+> Software Engineer
+> - Independently create and oversee software system testing procedures, programming, and documentation. 
+> - Analyze, define, and document requirements related to data, workflow, logical processes, hardware, operating system environment, interfaces with other systems, internal and external checks, controls, and outputs
+> - Estimate feasibility, costs, time, and compatibility with hardware and other programs
+> - Develop and maintain plans outlining steps and timetables for program development
+> - Provide training to end users or technical support staff on program usage
 
 RTX
 
