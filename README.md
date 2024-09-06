@@ -12,7 +12,8 @@ Hello, I'm Brandon, a recent grad at the University of Nevada, Las Vegas. I have
 
 **Testing and Quality Assurance**
 > JUnit, ATEasy, Test Stand, Mockito
-*DevOps and Infrastructure**
+
+**DevOps and Infrastructure**
 > AWS, Kafka, Jira, REST API, Spring, Docker, Maven, Git, Agile, AzDO, Linode, Ant, Postman
 ---
 **Work Experience:**
