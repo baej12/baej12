@@ -18,9 +18,9 @@ Hello, I'm Brandon, a recent grad at the University of Nevada, Las Vegas. I have
 ---
 **Work Experience:**
 
-HUNTINGTON INGALLS INDUSTRIES via INSIGHT GLOBAL
+Insight Global
 
-> Software Engineer
+> Mid Software Engineer
 > - Independently create and oversee software system testing procedures, programming, and documentation. 
 > - Analyze, define, and document requirements related to data, workflow, logical processes, hardware, operating system environment, interfaces with other systems, internal and external checks, controls, and outputs
 > - Estimate feasibility, costs, time, and compatibility with hardware and other programs
@@ -29,7 +29,7 @@ HUNTINGTON INGALLS INDUSTRIES via INSIGHT GLOBAL
 
 RTX
 
-> Software Engineer
+> Software Engineer P1
 > - Provide internal and external engineering teams with support for miscellaneous system functions
 > - Developed training material and onboarding guides that decreased new hire assimilation time
 > - Managed proprietary image recognition project, integrating software and hardware testing
