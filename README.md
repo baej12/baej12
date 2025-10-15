@@ -18,6 +18,10 @@ Hello, I'm Brandon, a recent grad at the University of Nevada, Las Vegas. I have
 ---
 **Work Experience:**
 
+Mission Technologies (HII)
+> Engineer Software 2
+> - Continue development of white cell ground truth viewer
+
 Insight Global
 
 > Mid Software Engineer
