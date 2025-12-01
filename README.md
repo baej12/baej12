@@ -139,8 +139,7 @@ Financial calculator application for loan amortization and payment schedules.
 Custom Discord bot with various utility and entertainment features.
 
 ---
-
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 <div align="center">
   
@@ -152,7 +151,7 @@ Custom Discord bot with various utility and entertainment features.
 
 </div>
 
----
+--- -->
 
 ## 📫 Let's Connect
 
