@@ -1,22 +1,22 @@
 <div align="center">
   
-# 👋 Hi, I'm Brandon
+# Brandon Bae
 
-### Software Engineer | Full Stack Developer | Problem Solver
+### Software Engineer 2 @ Mission Technologies (HII)
 
-🎓 B.S. Computer Science @ University of Nevada, Las Vegas  
-🌐 [bae.codes](https://www.bae.codes) (W.I.P)
-
-[![GitHub followers](https://img.shields.io/github/followers/baej12?style=social)](https://github.com/baej12)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhbbae/)
+[![Website](https://img.shields.io/badge/🌐-bae.codes-blue)](https://www.bae.codes)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jung.bae@alumni.unlv.edu)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About
 
-Currently working as a **Software Engineer 2** at Mission Technologies (HII), developing white cell ground truth viewer systems. I'm passionate about building scalable applications and solving complex engineering challenges across the full stack.
+Software Engineer with expertise in full-stack development, specializing in defense technology and mission-critical applications. Proven track record of independently designing software systems, optimizing workflows, and delivering scalable solutions across C++, C#, JavaScript/TypeScript, Python, and Java ecosystems.
+
+**Education:** B.S. Computer Science, University of Nevada, Las Vegas
 
 ---
 
@@ -57,119 +57,74 @@ Currently working as a **Software Engineer 2** at Mission Technologies (HII), de
 
 ## 💼 Professional Experience
 
-<details>
-<summary><b>Mission Technologies (HII)</b> - Software Engineer 2</summary>
-<br>
+### **Mission Technologies (HII)** | Software Engineer 2
+*Developing white cell ground truth viewer systems for defense and mission-critical applications*
 
-- Continuing development of white cell ground truth viewer systems
-- Working with defense technology and mission-critical applications
+### **Insight Global** | Mid Software Engineer
+- Independently architected and oversaw software system testing procedures, programming, and comprehensive documentation
+- Analyzed and documented technical requirements for data workflows, logical processes, and system interfaces
+- Conducted feasibility analysis and cost estimation, ensuring hardware and software compatibility
+- Developed detailed project plans with clear milestones and timetables for program development
+- Delivered training and technical support to end users and support staff
 
-</details>
+### **RTX (Raytheon)** | Software Engineer P1
+- Provided cross-functional engineering support for system functions across internal and external teams
+- Created training materials and onboarding guides that significantly reduced new hire assimilation time
+- Led proprietary image recognition project, integrating comprehensive software and hardware testing
+- Contributed to employee management software review to improve team tracking and communication
 
-<details>
-<summary><b>Insight Global</b> - Mid Software Engineer</summary>
-<br>
+### **UNLV FIA, Department of Geoscience** | Accessibility Web Developer
+- Ensured equal information access through Section 508 and WCAG 2.0 compliance standards
+- Remediated hundreds of accessibility violations affecting assistive technology users
+- Contributed to development and deployment of contingency website infrastructure
 
-- Independently created and oversaw software system testing procedures, programming, and documentation
-- Analyzed and documented requirements related to data workflows, logical processes, and system interfaces
-- Estimated feasibility, costs, and compatibility with hardware and other programs
-- Developed comprehensive plans outlining steps and timetables for program development
-- Provided training to end users and technical support staff
-
-</details>
-
-<details>
-<summary><b>RTX (Raytheon)</b> - Software Engineer P1</summary>
-<br>
-
-- Provided engineering support for miscellaneous system functions across internal and external teams
-- Developed training materials and onboarding guides that decreased new hire assimilation time
-- Managed proprietary image recognition project integrating software and hardware testing
-- Participated in reviewing employee management software to enhance team tracking and communication
-
-</details>
-
-<details>
-<summary><b>UNLV FIA, Dept. of Geoscience</b> - Accessibility Web Developer</summary>
-<br>
-
-- Facilitated equal access to information via Section 508 and WCAG compliance
-- Remedied hundreds of accessibility violations impacting assistive technology
-- Contributed to development of contingency website for UNLV FIA
-
-</details>
-
-<details>
-<summary><b>Credit One Bank</b> - Backend Developer Intern II & Full Stack Developer Intern I</summary>
-<br>
-
-- Architected, administered, and deployed APIs crucial for front-end development team
-- Identified optimizations to reduce compile time and alleviate performance burdens
-- Revamped user interface components through comprehensive system analysis
-- Influenced enhancements for the company's internship program
-
-</details>
+### **Credit One Bank** | Backend Developer Intern II & Full Stack Developer Intern I
+- Architected, administered, and deployed RESTful APIs supporting front-end development initiatives
+- Identified and implemented optimizations reducing compile time and enhancing overall performance
+- Redesigned user interface components based on comprehensive system analysis
+- Provided feedback that influenced company-wide internship program improvements
 
 ---
 
-## 🛠️ Featured Projects
+## 🚀 Featured Projects
 
-### 🔧 xv6 Modified Kernel
-Operating system kernel modifications and enhancements to the xv6 educational OS.
+### **xv6 Modified Kernel**
+Operating system kernel modifications and enhancements to the xv6 educational OS, implementing advanced scheduling algorithms and memory management features.
 
-### 🎮 Colony Simulator
-Simulation software modeling colony behaviors and interactions.
+### **Java-based Compiler**
+Full compiler implementation built from scratch in Java, featuring lexical analysis, parsing, semantic analysis, and code generation.
 
-### ⚙️ Java-based Compiler
-Custom compiler implementation built from scratch in Java.
+### **Digital Bank Application**
+Full-stack banking application with secure transaction management, user authentication, and account management features.
 
-### 🤖 Iris ML Classifier
-Machine learning classifier for the classic Iris dataset using various algorithms.
+### **Colony Simulator**
+Agent-based simulation software modeling colony behaviors, resource management, and complex interaction patterns.
 
-### 🏦 Digital Bank
-Full-stack banking application with transaction management and user authentication.
+### **Iris ML Classifier**
+Machine learning classifier implementing multiple algorithms (KNN, Decision Trees, Neural Networks) for the Iris dataset with comparative analysis.
 
-### 📝 Forms Repository
-Dynamic forms management system with validation and data persistence.
+### **Forms Repository System**
+Dynamic forms management platform with real-time validation, data persistence, and customizable field configurations.
 
-### 💰 Loan Calculator
-Financial calculator application for loan amortization and payment schedules.
+### **Discord Bot**
+Feature-rich Discord bot with utility commands, automation features, and custom integrations.
 
-### 🤖 Discord Bot
-Custom Discord bot with various utility and entertainment features.
+### **Loan Calculator**
+Financial planning tool for loan amortization schedules, payment calculations, and interest analysis.
 
 ---
-<!-- ## 📊 GitHub Stats
 
-<div align="center">
-  
-![Brandon's GitHub stats](https://github-readme-stats.vercel.app/api?username=baej12&show_icons=true&theme=dark&hide_border=true)
+## 📫 Connect
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baej12&layout=compact&theme=dark&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=baej12&theme=dark&hide_border=true)
-
-</div>
-
---- -->
-
-## 📫 Let's Connect
-
-Feel free to reach out for collaborations, opportunities, or just to chat about technology!
+Open to discussing software engineering opportunities, technical collaborations, and innovative projects.
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/🌐-Website-blue)](https://www.bae.codes)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhbbae/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](jung.bae@alumni.unlv.edu)
-
-</div>
+[![Website](https://img.shields.io/badge/🌐-bae.codes-blue)](https://www.bae.codes)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jung.bae@alumni.unlv.edu)
 
 ---
-
-<div align="center">
-  
-*"Building the future, one commit at a time."* 💻✨
 
 ![Profile Views](https://komarev.com/ghpvc/?username=baej12&color=blueviolet)
 
